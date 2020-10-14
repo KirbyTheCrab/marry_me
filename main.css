@@ -1,0 +1,39 @@
+
+.title{
+  position: center;
+
+}
+
+.next_page{
+  background-color: black;
+  font-size: 60px;
+  color:  #34ebb7;
+  outline-color: #3ac9c9;
+  padding: 30px;
+  font-style: oblique;
+  position: relative; left: 40rem; top: 30rem;
+  border-radius: 50%;
+}
+
+.next_page:hover{
+  background-color: grey;
+}
+
+.next_page1{
+  background-color: black;
+  font-size: 40px;
+  color:  #34ebb7;
+  outline-color: #3ac9c9;
+  padding: 30px;
+  font-style: oblique;
+  position: relative; left: 30rem; top: 30rem;
+  border-radius: 50%;
+}
+
+.next_page1:hover{
+  background-color: grey;
+}
+
+.video {
+  position: relative; right: 25rem;
+}
